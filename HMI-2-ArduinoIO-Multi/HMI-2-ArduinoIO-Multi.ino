@@ -10,16 +10,6 @@ int pinPush = 5;
 int pinPotA = 0;
 int LEDState = 0;
 
-unsigned int intervalLED = 1000;
-unsigned int intervalPush = 500;
-unsigned int intervalServo = 100;
-
-unsigned long pastMillisLED = 0;
-unsigned long pastMillisServo = 0;
-unsigned long pastMillisPush = 0;
-
-unsigned long currentMillis = 0;
-
 void setup() {
   pinMode(pinServo, OUTPUT);//PWM pin as output
   pinMode(pinLED, OUTPUT);
@@ -27,25 +17,7 @@ void setup() {
 }
 
 void loop() {
-  currentMillis = millis();
-  
-  if((currentMillis - pastMillisLED) >= intervalLED) {
-    //This block will be executed each intervalLED ms
-    blinkLED();
-    pastMillisLED = currentMillis;
-  }
-  
-  if((currentMillis - pastMillisServo) >= intervalServo) {
-    //This block will be executed each intervalServo ms
-    moveServo();
-    intervalServo = currentMillis;
-  }
-  
-  if((currentMillis - pastMillisPush) >= intervalPush) {
-    //This block will be executed each intervalPush ms
-    changeBlinkInterval();
-    intervalPush = currentMillis;
-  }
+
 }
 
 void blinkLED() {
