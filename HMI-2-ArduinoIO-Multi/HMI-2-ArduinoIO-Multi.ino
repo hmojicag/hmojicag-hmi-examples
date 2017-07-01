@@ -7,7 +7,7 @@
 
 int pinServo = 3;
 int pinLED = 4;
-int pinPush = 35
+int pinPush = 5;
 int pinPotA = 0;
 int LEDState = 0;
 int pushState = 0;
