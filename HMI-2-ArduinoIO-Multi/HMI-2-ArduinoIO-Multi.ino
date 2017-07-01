@@ -5,9 +5,9 @@
   Example: HMI-2-ArduinoIO-Multi
 */
 
-int pinServo = 10;
+int pinServo = 3;
 int pinLED = 4;
-int pinPush = 3;
+int pinPush = 35
 int pinPotA = 0;
 int LEDState = 0;
 int pushState = 0;
