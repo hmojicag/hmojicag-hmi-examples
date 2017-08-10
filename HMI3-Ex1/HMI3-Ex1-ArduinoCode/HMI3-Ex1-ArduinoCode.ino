@@ -49,7 +49,7 @@ void loop() {
 }
 
 void increaseServo() {
-  pwmVal += 10;
+  pwmVal += 5;
   if(pwmVal > 255) {
     pwmVal = 255;
   }
@@ -57,7 +57,7 @@ void increaseServo() {
 }
 
 void decreaseServo() {
-  pwmVal -= 10;
+  pwmVal -= 5;
   if(pwmVal < 0) {
     pwmVal = 0;
   }
