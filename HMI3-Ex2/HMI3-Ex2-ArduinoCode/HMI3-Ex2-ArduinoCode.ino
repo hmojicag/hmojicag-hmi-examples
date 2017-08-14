@@ -1,7 +1,7 @@
 /*
 * Hazael Fernando Mojica García
 * 11/August/2017
-* HMI-3-Arduino-.Net-Ex1
+* HMI-3-Arduino-.Net-Ex2
 */
 
 int pinServo = 3;
@@ -37,10 +37,6 @@ void loop() {
         decreaseServo();
       break;
 
-      case 'e'://Read Digital Val
-        readDigitalVal();
-      break;
-
       case 'f'://Read Analog Value
         readAnalogVal();
       break;
@@ -66,16 +62,6 @@ void decreaseServo() {
 
 void setPWMVal() {
   analogWrite(pinServo, pwmVal);
-}
-
-void readDigitalVal() {
-  //Writes "HIGH\r\n" if Push is pressed
-  //writes "LOW\r\n" otherwise
-  if(digitalRead(pinPush)) {
-    Serial.println("HIGH");
-  } else {
-    Serial.println("LOW");
-  }
 }
 
 void readAnalogVal() {

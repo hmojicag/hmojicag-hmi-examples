@@ -12,7 +12,7 @@ namespace HMI3_Ex1
             InitializeComponent();
             //Actually creates the Serial Port instance object
             //The Arduino is in COM1 and uses a Baud Rate of 115200bds
-            serialPort = new SerialPort("COM1", 115200);
+            serialPort = new SerialPort("COM3", 115200);
             serialPort.Open();
         }
 

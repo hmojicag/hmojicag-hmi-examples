@@ -1,0 +1,9 @@
+F:\hmojicag-hmi-examples\HMI3-Ex1\HMI3-Ex1-GUI\HMI3-Ex1\bin\Debug\HMI3-Ex1.exe.config
+F:\hmojicag-hmi-examples\HMI3-Ex1\HMI3-Ex1-GUI\HMI3-Ex1\bin\Debug\HMI3-Ex1.exe
+F:\hmojicag-hmi-examples\HMI3-Ex1\HMI3-Ex1-GUI\HMI3-Ex1\bin\Debug\HMI3-Ex1.pdb
+F:\hmojicag-hmi-examples\HMI3-Ex1\HMI3-Ex1-GUI\HMI3-Ex1\obj\Debug\HMI3-Ex1.csprojResolveAssemblyReference.cache
+F:\hmojicag-hmi-examples\HMI3-Ex1\HMI3-Ex1-GUI\HMI3-Ex1\obj\Debug\HMI3_Ex1.Form1.resources
+F:\hmojicag-hmi-examples\HMI3-Ex1\HMI3-Ex1-GUI\HMI3-Ex1\obj\Debug\HMI3_Ex1.Properties.Resources.resources
+F:\hmojicag-hmi-examples\HMI3-Ex1\HMI3-Ex1-GUI\HMI3-Ex1\obj\Debug\HMI3-Ex1.csproj.GenerateResource.Cache
+F:\hmojicag-hmi-examples\HMI3-Ex1\HMI3-Ex1-GUI\HMI3-Ex1\obj\Debug\HMI3-Ex1.exe
+F:\hmojicag-hmi-examples\HMI3-Ex1\HMI3-Ex1-GUI\HMI3-Ex1\obj\Debug\HMI3-Ex1.pdb
