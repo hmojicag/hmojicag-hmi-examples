@@ -1,0 +1,9 @@
+F:\hmojicag-hmi-examples\HMI4-ListSerialPorts\ListSerialPorts\ListSerialPorts\bin\Debug\ListSerialPorts.exe.config
+F:\hmojicag-hmi-examples\HMI4-ListSerialPorts\ListSerialPorts\ListSerialPorts\bin\Debug\ListSerialPorts.exe
+F:\hmojicag-hmi-examples\HMI4-ListSerialPorts\ListSerialPorts\ListSerialPorts\bin\Debug\ListSerialPorts.pdb
+F:\hmojicag-hmi-examples\HMI4-ListSerialPorts\ListSerialPorts\ListSerialPorts\obj\Debug\ListSerialPorts.csprojResolveAssemblyReference.cache
+F:\hmojicag-hmi-examples\HMI4-ListSerialPorts\ListSerialPorts\ListSerialPorts\obj\Debug\ListSerialPorts.Form1.resources
+F:\hmojicag-hmi-examples\HMI4-ListSerialPorts\ListSerialPorts\ListSerialPorts\obj\Debug\ListSerialPorts.Properties.Resources.resources
+F:\hmojicag-hmi-examples\HMI4-ListSerialPorts\ListSerialPorts\ListSerialPorts\obj\Debug\ListSerialPorts.csproj.GenerateResource.Cache
+F:\hmojicag-hmi-examples\HMI4-ListSerialPorts\ListSerialPorts\ListSerialPorts\obj\Debug\ListSerialPorts.exe
+F:\hmojicag-hmi-examples\HMI4-ListSerialPorts\ListSerialPorts\ListSerialPorts\obj\Debug\ListSerialPorts.pdb
