@@ -7,3 +7,12 @@ F:\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\bin\Debug\HMI3-Ex2.exe
 F:\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\bin\Debug\HMI3-Ex2.pdb
 F:\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\obj\Debug\HMI3-Ex2.exe
 F:\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\obj\Debug\HMI3-Ex2.pdb
+C:\Users\final\repos\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\bin\Debug\HMI3-Ex2.exe.config
+C:\Users\final\repos\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\obj\Debug\HMI3-Ex2.exe
+C:\Users\final\repos\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\obj\Debug\HMI3-Ex2.pdb
+C:\Users\final\repos\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\bin\Debug\HMI3-Ex2.exe
+C:\Users\final\repos\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\bin\Debug\HMI3-Ex2.pdb
+C:\Users\final\repos\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\obj\Debug\HMI3-Ex2.csprojResolveAssemblyReference.cache
+C:\Users\final\repos\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\obj\Debug\HMI3_Ex2.Form1.resources
+C:\Users\final\repos\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\obj\Debug\HMI3_Ex2.Properties.Resources.resources
+C:\Users\final\repos\hmojicag-hmi-examples\HMI3-Ex2\HMI3-Ex2-GUI\HMI3-Ex2\obj\Debug\HMI3-Ex2.csproj.GenerateResource.Cache

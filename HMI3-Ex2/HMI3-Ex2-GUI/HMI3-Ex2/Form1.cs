@@ -75,10 +75,15 @@ namespace HMI3_Ex2 {
         }
 
         private void ChartRefresh() {
-            chart1.Series[0].Points.Clear();
-            foreach(int sample in samples) {
-                chart1.Series[0].Points.AddY(sample);
+            try {
+                chart1.Series[0].Points.Clear();
+                foreach (int sample in samples) {
+                    chart1.Series[0].Points.AddY(sample);
+                }
+            } catch (Exception ex) {
+                Console.WriteLine(ex);
             }
+
         }
     }
 }
