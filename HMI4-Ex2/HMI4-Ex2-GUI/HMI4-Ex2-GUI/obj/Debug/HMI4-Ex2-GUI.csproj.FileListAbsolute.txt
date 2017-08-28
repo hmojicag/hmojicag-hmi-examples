@@ -1,0 +1,9 @@
+F:\hmojicag-hmi-examples\HMI4-Ex2\HMI4-Ex2-GUI\HMI4-Ex2-GUI\bin\Debug\HMI4-Ex2-GUI.exe.config
+F:\hmojicag-hmi-examples\HMI4-Ex2\HMI4-Ex2-GUI\HMI4-Ex2-GUI\bin\Debug\HMI4-Ex2-GUI.exe
+F:\hmojicag-hmi-examples\HMI4-Ex2\HMI4-Ex2-GUI\HMI4-Ex2-GUI\bin\Debug\HMI4-Ex2-GUI.pdb
+F:\hmojicag-hmi-examples\HMI4-Ex2\HMI4-Ex2-GUI\HMI4-Ex2-GUI\obj\Debug\HMI4-Ex2-GUI.csprojResolveAssemblyReference.cache
+F:\hmojicag-hmi-examples\HMI4-Ex2\HMI4-Ex2-GUI\HMI4-Ex2-GUI\obj\Debug\HMI4_Ex2_GUI.Form1.resources
+F:\hmojicag-hmi-examples\HMI4-Ex2\HMI4-Ex2-GUI\HMI4-Ex2-GUI\obj\Debug\HMI4_Ex2_GUI.Properties.Resources.resources
+F:\hmojicag-hmi-examples\HMI4-Ex2\HMI4-Ex2-GUI\HMI4-Ex2-GUI\obj\Debug\HMI4-Ex2-GUI.csproj.GenerateResource.Cache
+F:\hmojicag-hmi-examples\HMI4-Ex2\HMI4-Ex2-GUI\HMI4-Ex2-GUI\obj\Debug\HMI4-Ex2-GUI.exe
+F:\hmojicag-hmi-examples\HMI4-Ex2\HMI4-Ex2-GUI\HMI4-Ex2-GUI\obj\Debug\HMI4-Ex2-GUI.pdb
